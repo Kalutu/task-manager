@@ -1,6 +1,9 @@
 # TaskMaster
 TaskMaster is a simple to-do list application that allows you to add, mark, and delete tasks.
 
+## Preview
+![TaskMaster App Preview]()
+
 ## Features
 - Add tasks by entering them in the input field and pressing enter.
 - Mark tasks as done by clicking the checkmark icon.

@@ -25,6 +25,12 @@ body {
     overflow-y: auto;
 }
 
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: rgb(72, 72, 218);
+}
+
 #input {
     height: 50px;
     width: 100%;

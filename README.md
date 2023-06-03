@@ -1,4 +1,4 @@
-# TaskMaster
+# Task Master
 TaskMaster is a simple to-do list application that allows you to add, mark, and delete tasks.
 
 ## Preview

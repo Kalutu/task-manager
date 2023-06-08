@@ -30,3 +30,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgements
 - Font Awesome for providing the icons used in the application.
 - jQuery for simplifying DOM manipulation and event handling.
+
+## Credits
+This project was created by Kalutu Daniel.

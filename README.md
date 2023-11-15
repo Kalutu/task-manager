@@ -2,7 +2,7 @@
 This is a to-do list application that allows you to add, mark, and delete tasks.
 
 ## Preview
-![TaskMaster App Preview](images/task-master.png)
+![TaskMaster App Preview](public/images/task-master.png)
 
 ## Features
 - Add tasks by entering them in the input field and pressing enter.
@@ -18,11 +18,11 @@ This is a to-do list application that allows you to add, mark, and delete tasks.
 ### Installation
 To run Plan Master on your local machine, follow these steps:
 
-1.Clone the repository: git clone https://github.com/Kalutu/plan-master
-1.Navigate to the project directory: cd plan-master
-1.Install the dependencies: npm install
-1.Start the development server: npm start
-1.Open your web browser and visit http://localhost:3000 to access Plan Master.
+1. Clone the repository: ```git clone https://github.com/Kalutu/plan-master```
+1. Navigate to the project directory: ```cd plan-master```
+1. Install the dependencies: ```npm install```
+1. Start the development server: ```npm start```
+1. Open your web browser and visit http://localhost:3000 to access Plan Master.
 
 ## Usage
 - Enter a task in the input field and press enter to add it to the list.

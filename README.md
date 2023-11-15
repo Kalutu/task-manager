@@ -1,5 +1,5 @@
-# Task Master
-Task Master is a simple to-do list application that allows you to add, mark, and delete tasks.
+# Plan Master
+This is a to-do list application that allows you to add, mark, and delete tasks.
 
 ## Preview
 ![TaskMaster App Preview](images/task-master.png)
